@@ -1,0 +1,27 @@
+
+
+==================== List of Employees ====================
+Sarah Binti Abdul		 £ 52500.0		 (2 years)
+Siti Maimunah Binti Jalil		 £ 63000.0		 (5 years)
+Jamal Bin Abu		 £ 73500.0		 (3 years)
+Amirul Bin Ahmad		 £ 57750.0		 (1 years)
+Lee Chong Wei		 £ 68250.0		 (4 years)
+Aminah Binti Wahab		 £ 78750.0		 (6 years)
+Norsyam Bin Abdullah		 £ 47250.0		 (2 years)
+Mei Mei		 £ 60900.0		 (3 years)
+Jarjit Sinkh		 £ 65100.0		 (4 years)
+Mohd Salleh		 £ 71400.0		 (5 years)
+
+
+**************************************************************
+
+
+==================== Top Performing Employee ====================
+Aminah Binti Wahab		 £ 78750.0		 (6 years)
+
+
+*************************************************************
+
+
+============== Employee With The Least Years of Services ==============
+Amirul Bin Ahmad		 £ 57750.0		 (1 years)
